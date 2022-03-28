@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+def func(a,b):
+    return a + b
 
 def main():
  name = input("Please input your name: " )
